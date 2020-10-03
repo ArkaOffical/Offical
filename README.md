@@ -1,3 +1,3 @@
-## Contents
+## OFFICAL GITHUB ACCOUNT OF ARKA The Astronomy Club Of IIT(ISM) Dhanbad
 
-- [Arithmetic Analysis](arithmetic-analysis)
+- [Facebook](face)
